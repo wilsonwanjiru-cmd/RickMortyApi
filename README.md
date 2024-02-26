@@ -1,4 +1,4 @@
-# RickMortyApi
+
 # Rick & Morty App
 
 ## Overview
@@ -40,7 +40,7 @@ Follow these steps to set up the project:
 
 1. **Clone the repository:**
    ```sh
-   git clone <https://github.com/wilsonwanjiru-cmd/RickMorty>
+   git clone <https://github.com/wilsonwanjiru-cmd/RickMortyApi>
 
 Install dependencies:
 
@@ -177,5 +177,5 @@ curl -X POST -H "Content-Type: application/json" -d '{"notes": "This is a test n
 
 ## Images
 
-![Screenshot](https://imgur.com/a/Zks2Z5n)
+  -  [Screenshot](https://imgur.com/a/Zks2Z5n)
 
