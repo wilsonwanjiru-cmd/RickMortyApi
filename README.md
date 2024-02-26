@@ -10,7 +10,7 @@ This project aims to build an app using the Rick & Morty API to retrieve informa
   - Apollo Client
   - React Router
   - Axios
-  - CSS (for styling)
+  - Tailwind (for styling)
   - [Rick & Morty API](https://rickandmortyapi.com/documentation/#graphql)
 
 ## Project Structure
@@ -32,7 +32,7 @@ RickMortyApi/
 │
 └── README.md # Project documentation
 
-This structure provides a clear representation of the directory structure of your RickMortyApp project, including folders like "public" and "src" and their respective contents. You can paste this markdown directly into your README.md file to document your project structure.
+
 
 ## Installation
 
@@ -175,7 +175,9 @@ curl http://localhost:5000/api/residents?residentUrl=https://rickandmortyapi.com
 Save Resident Notes
 curl -X POST -H "Content-Type: application/json" -d '{"notes": "This is a test note"}' http://localhost:5000/api/residents/1
 
+
+
+
+
 ## Images
-
-  -  [Screenshot](https://imgur.com/a/Zks2Z5n)
-
+-  [Screenshot](https://imgur.com/a/Zks2Z5n)
